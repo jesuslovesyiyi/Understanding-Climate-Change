@@ -48,7 +48,7 @@ The final class requirement is a team-based project that applies the knowledge l
 **Week 1: Introduction**
 - Introduction and overview
 - GIS & Python workshop (in preparation for lab assignments and applied project)  
-> Workshop: [Python Foundamentals](https://github.com/jesuslovesyiyi/Python-Fundamentals-Workshop) (Github Repo)  
+> **Workshop**: [Python Foundamentals](https://github.com/jesuslovesyiyi/Python-Fundamentals-Workshop) (Github Repo)  
 
 **Week 2: Climate science**
 - Understanding Climate Change: natural and human causes
@@ -56,8 +56,8 @@ The final class requirement is a team-based project that applies the knowledge l
 **Week 3: Scenarios for forecasting**
 - Understanding Climate Change: natural and human causes cont.
 - Future climate variations: Global Climate Models
-> Exercise: Average Annual Global Land Ocean Temperature Change  
-> Exercise: Global max temperature under 4 SSP scenarios [[exercise]](https://drive.google.com/file/d/1aLhRvl-_dJoejLTb8QUhYi3j1ogd4uM-/view?usp=sharing) [[solutions]](https://colab.research.google.com/drive/1WwRgv8LVdYyitQL5hqwTAVaDV8G3J9zj#scrollTo=WUSKyWPIStoA)
+> **Exercise**: Average Annual Global Land Ocean Temperature Change  
+> **Colab**: Global max temperature under 4 SSP scenarios [[exercise]](https://drive.google.com/file/d/1aLhRvl-_dJoejLTb8QUhYi3j1ogd4uM-/view?usp=sharing) [[solutions]](https://colab.research.google.com/drive/1WwRgv8LVdYyitQL5hqwTAVaDV8G3J9zj#scrollTo=WUSKyWPIStoA)
 
 **Week 4: Economics of climate change**
 - Economics of Climate Change 1
@@ -66,13 +66,13 @@ The final class requirement is a team-based project that applies the knowledge l
 **Week 5: Data science for climate research**
 - Climate Datasets and Formats
 - Python for Climate Change Analytics
-> Exercise: Working with netCDF  
-> Exercise: ESRI tutorial on performing multidimensional raster analysis in ArcGIS Pro
+> **Exercise**: Working with netCDF  
+> **Exercise**: ESRI tutorial on performing multidimensional raster analysis in ArcGIS Pro
 
 **Week 6: The history of emissions**
 - Quantifying methane emissions from point source level to the global budget
 - Climate Action Plan  
-> Exercise: The City Inventory Reporting and Information System (CIRIS)
+> **Exercise**: The City Inventory Reporting and Information System (CIRIS)
 
 **Week 7: Climate extremes 1**
 - Climate change and extreme events: flooding  
@@ -91,7 +91,7 @@ The final class requirement is a team-based project that applies the knowledge l
 
 **Week 11: Transportation and climate change**
 - Understanding the impact of climate-change-induced extreme weather conditions on multiple transportation sectors  
-> Exercise: Santiago network analysis
+> **Exercise**: Santiago network analysis
 
 **Week 12: Climate change adaptation**
 - Adapting to a changing climate
