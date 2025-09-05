@@ -57,7 +57,7 @@ The final class requirement is a team-based project that applies the knowledge l
 - Understanding Climate Change: natural and human causes cont.
 - Future climate variations: Global Climate Models
 > Exercise: Average Annual Global Land Ocean Temperature Change  
-> Exercise: [Global max temperature under 4 SSP scenarios](https://drive.google.com/file/d/1aLhRvl-_dJoejLTb8QUhYi3j1ogd4uM-/view?usp=sharing) (Colab) [[solutions]](https://colab.research.google.com/drive/1WwRgv8LVdYyitQL5hqwTAVaDV8G3J9zj#scrollTo=WUSKyWPIStoA)
+> Exercise: Global max temperature under 4 SSP scenarios [[exercise]](https://drive.google.com/file/d/1aLhRvl-_dJoejLTb8QUhYi3j1ogd4uM-/view?usp=sharing) [[solutions]](https://colab.research.google.com/drive/1WwRgv8LVdYyitQL5hqwTAVaDV8G3J9zj#scrollTo=WUSKyWPIStoA)
 
 **Week 4: Economics of climate change**
 - Economics of Climate Change 1
