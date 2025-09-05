@@ -3,7 +3,8 @@ This repository contains learning materials for CP 4190/6190 Intro to Climate Ch
 
 Course name: Intro to Climate Change Planning  
 Instructor: Yiyi He  
-Contact email: yiyi.he@design.gatech.edu
+Teaching assistant: Yuhan Xu  
+Email: yiyi.he@design.gatech.edu (instructor), yxu899@gatech.edu (TA)  
 
 ## Overview
 This course is an introduction to the major topics in climate change planning, including the scientific basis of the greenhouse effect, the history of Earth’s climate, energy options, economics, and public policy, the effect of climate change on food, water, and health, and the national and international legal frameworks for the management of climate change.  
@@ -46,7 +47,8 @@ The final class requirement is a team-based project that applies the knowledge l
 ## Course Schedule
 **Week 1: Introduction**
 - Introduction and overview
-- GIS & Python workshop (in preparation for lab assignments and applied project)
+- GIS & Python workshop (in preparation for lab assignments and applied project)  
+> Workshop: [Python Foundamentals](https://github.com/jesuslovesyiyi/Python-Fundamentals-Workshop) (Github Repo)  
 
 **Week 2: Climate science**
 - Understanding Climate Change: natural and human causes
@@ -55,7 +57,7 @@ The final class requirement is a team-based project that applies the knowledge l
 - Understanding Climate Change: natural and human causes cont.
 - Future climate variations: Global Climate Models
 > Exercise: Average Annual Global Land Ocean Temperature Change  
-> Exercise: Global max temperature under 4 SSP scenarios
+> Exercise: [Global max temperature under 4 SSP scenarios](https://drive.google.com/file/d/1aLhRvl-_dJoejLTb8QUhYi3j1ogd4uM-/view?usp=sharing) (Colab)
 
 **Week 4: Economics of climate change**
 - Economics of Climate Change 1
