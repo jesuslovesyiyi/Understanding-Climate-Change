@@ -59,15 +59,15 @@ The final class requirement is a team-based project that applies the knowledge l
 > **Exercise**: Average Annual Global Land Ocean Temperature Change  
 > **Colab**: Global max temperature under 4 SSP scenarios [[exercise]](https://drive.google.com/file/d/1aLhRvl-_dJoejLTb8QUhYi3j1ogd4uM-/view?usp=sharing) [[solutions]](https://colab.research.google.com/drive/1WwRgv8LVdYyitQL5hqwTAVaDV8G3J9zj#scrollTo=WUSKyWPIStoA)
 
-**Week 4: Economics of climate change**
-- Economics of Climate Change 1
-- Economics of Climate Change 2
-
-**Week 5: Data science for climate research**
+**Week 4: Data science for climate research**
 - Climate Datasets and Formats
 - Python for Climate Change Analytics
 > **Exercise**: Working with netCDF  
 > **Exercise**: ESRI tutorial on performing multidimensional raster analysis in ArcGIS Pro
+
+**Week 5: Economics of climate change**
+- Economics of Climate Change 1
+- Economics of Climate Change 2
 
 **Week 6: The history of emissions**
 - Quantifying methane emissions from point source level to the global budget
