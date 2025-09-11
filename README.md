@@ -63,8 +63,8 @@ The final class requirement is a team-based project that applies the knowledge l
 - Climate Datasets and Formats
 - Python for Climate Change Analytics
 > **Colab**: Working with netCDF [[exercise]](https://drive.google.com/file/d/1vwV2--Nrc4agScb8_T6Gk9-njGYHyvTO/view?usp=sharing)  
-> **Colab**: Quick intro to CMIP6 [exercise]  
-> **Exercise**: ESRI tutorial on performing multidimensional raster analysis in ArcGIS Pro [[tutorial]](https://doc.arcgis.com/en/imagery/workflows/tutorials/multidimensional-raster-analysis-in-arcgis-pro.htm)[[data]](https://www.arcgis.com/home/item.html?id=6c2bf2c6ec3541569c73af4c73b56750)
+> **Colab**: Quick intro to CMIP6 [[exercise]](https://drive.google.com/file/d/1W2HKbrmQsU1NLYlNTNjJmJO2SxdhNrg8/view?usp=sharing)  
+> **Exercise**: ESRI tutorial on performing multidimensional raster analysis in ArcGIS Pro [[tutorial]](https://doc.arcgis.com/en/imagery/workflows/tutorials/multidimensional-raster-analysis-in-arcgis-pro.htm) [[data]](https://www.arcgis.com/home/item.html?id=6c2bf2c6ec3541569c73af4c73b56750)
 
 **Week 5: Economics of climate change**
 - Economics of Climate Change 1
