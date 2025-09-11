@@ -62,7 +62,7 @@ The final class requirement is a team-based project that applies the knowledge l
 **Week 4: Data science for climate research**
 - Climate Datasets and Formats
 - Python for Climate Change Analytics
-> **Colab**: Working with netCDF [[exercise]](https://drive.google.com/file/d/1vwV2--Nrc4agScb8_T6Gk9-njGYHyvTO/view?usp=sharing)
+> **Colab**: Working with netCDF [[exercise]](https://drive.google.com/file/d/1vwV2--Nrc4agScb8_T6Gk9-njGYHyvTO/view?usp=sharing)  
 > **Exercise**: ESRI tutorial on performing multidimensional raster analysis in ArcGIS Pro
 
 **Week 5: Economics of climate change**
