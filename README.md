@@ -4,12 +4,12 @@ This repository contains learning materials for CP 4190/6190 Intro to Climate Ch
 Course name: Intro to Climate Change Planning  
 Instructor: Yiyi He  
 Teaching assistant: Yuhan Xu  
-Email: yiyi.he@design.gatech.edu (instructor), yxu899@gatech.edu (TA)  
+Email: yiyi.he@design.gatech.edu (Instructor), yxu899@gatech.edu (TA)  
 
-## Overview
-This course is an introduction to the major topics in climate change planning, including the scientific basis of the greenhouse effect, the history of Earth’s climate, energy options, economics, and public policy, the effect of climate change on food, water, and health, and the national and international legal frameworks for the management of climate change.  
+## Course description
+This course is an introduction to the major topics in climate change planning, including the scientific basis of the greenhouse effect, the history of Earth’s climate, energy options, economics, and public policy, the effect of climate change on food, water, and health, and the national and international legal frameworks for the management of climate change. 
 
-The issues around climate change are evolving rapidly, both politically and within the wider community. This course aims to provide a broad, cross-disciplinary approach to climate change. In particular, students will explore and debate the issues on a range of topics, with an emphasis on the international and global implications.  
+The issues around climate change are evolving rapidly, both politically and within the wider community. This course aims to provide a broad, cross-disciplinary approach to climate change. Students will explore and debate the issues on a range of topics, with an emphasis on the international and global implications. 
 
 The course will provide a comprehensive and up-to-date introduction to all aspects of the climate change debate. Students will be provided with the opportunity to explore current issues and to interact with scientific researchers with expertise and interests in climate change. In addition, students will be asked to evaluate and integrate this information within their own local context.  
 
@@ -42,12 +42,39 @@ _Three Lab Projects (45 pts total, 15 pts each):_
 Through the completion of three lab assignments, students will gain first-hand knowledge of the use and operation of GIS and Python in climate change planning and analytics. For late submissions, a .5 point/day penalty will be applied.
 
 _Applied Project (15 pts on Presentation, 40 pts on Project paper):_
-The final class requirement is a team-based project that applies the knowledge learned in the class to a real-world problem. Fifteen percent of the total course grade will be a formal presentation to the class. Please note that all written assignments (unless otherwise noted) are to be submitted through the “Assignments” tab. Late project report/paper submissions are not accepted. It is the student’s responsibility to ensure that assignments submitted through Canvas are successfully uploaded into the system.  
+The final class requirement is a team-based project that applies the knowledge learned in the class to a real-world problem. Fifteen percent of the total course grade will be a formal presentation to the class. Please note that all written assignments (unless otherwise noted) are to be submitted through the “Assignments” tab. Late project report/paper submissions are not accepted. It is the student’s responsibility to ensure that assignments submitted through Canvas are successfully uploaded into the system.
+
+All assignments (unless otherwise noted) are to be submitted through the “Assignments” tab on Canvas. It is the student’s responsibility to ensure that assignments submitted through Canvas are successfully uploaded into the system on time. For late submissions to any of the assignments above (final project paper excluded), a .5 point/day penalty will be applied. Late project paper submissions are not accepted. In the case of illness or other special circumstances, notification should be given as soon as possible and before the assignment deadline.
+
+## AI policy
+Artificial intelligence (AI) tools (e.g., ChatGPT, GitHub Copilot, generative image or text models) may be used in this course as learning aids, but not as substitutes for critical thinking, original analysis, or the development of technical skills.
+
+AI tools may *not* be used to:
+- Generate complete assignments, code, or analyses submitted as original work
+- Produce final answers without student verification and modification
+- Fabricate data, citations, results, or policy interpretations
+- Bypass learning objectives related to programming, modeling, or reasoning
+
+Students must disclose AI use when it meaningfully contributes to an assignment. A brief statement should describe which tool was used and for what purpose. For example, you can say, "ChatGPT 5 was used in this assignment to help correct my grammar mistakes".
+
+Failure to disclose AI use when required will be treated as an academic integrity violation.
 
 ## Course Schedule
 **Week 1: Introduction**
-- Introduction and overview
-- GIS & Python workshop (in preparation for lab assignments and applied project)  
+
+- 08/24 Introduction and overview
+- 08/26 GIS workshop (in preparation for lab assignments and applied project)
+> **Workshop**: Hands-on exercise from ESRI
+1. Introducing ArcGIS Pro [[Tutorial]](https://doc.esri.com/en/arcgis-pro/latest/get-started/introducing-arcgis-pro.html)[[Data]](https://www.arcgis.com/home/item.html?id=c25cf7226e3a48d48f0de9ac5a5a9122)
+2. Create a project 
+3. Add data to a project
+4. Explore data
+5. Symbolize map layers
+6. Make a layout
+7. Manage data
+8. Create points from a table
+9. Use geoprocessing tools
+
 > **Workshop**: [Python Foundamentals](https://github.com/jesuslovesyiyi/Python-Fundamentals-Workshop) (Github Repo)  
 
 **Week 2: Climate science**
