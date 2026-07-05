@@ -62,7 +62,7 @@ Failure to disclose AI use when required will be treated as an academic integrit
 ## Course Schedule
 **Week 1: Introduction**  
 
-<font color="red">This text is red</font>
+$\color{blue}{\text{This is blue text}}$
 
 > $\color{royalblue}{\mathbf{08/26}}$
 Introduction and overview   
