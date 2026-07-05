@@ -62,14 +62,10 @@ Failure to disclose AI use when required will be treated as an academic integrit
 ## Course Schedule
 **Week 1: Introduction**  
 
-$\color{blue}{\text{This is blue text}}$
-
-$\color{royalblue}{\textbf{This is bold blue text}}$
-
-> $\color{royalblue}{\mathbf{08/26}}$
+> $\color{royalblue}{\textbf{08/24}}$
 Introduction and overview   
 
-><span style="color:royalblue">**08/26**</span>
+> $\color{royalblue}{\textbf{08/26}}$
 GIS workshop (in preparation for lab assignments and applied project)   
 
 <span style="color:deeppink">**Workshop Materials:**</span>
