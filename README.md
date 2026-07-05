@@ -68,7 +68,7 @@ Introduction and overview
 > $\color{royalblue}{\textbf{08/26}}$
 GIS workshop (in preparation for lab assignments and applied project)   
 
-<span style="color:deeppink">**Workshop Materials:**</span>
+$\color{deeppink}{\textbf{Workshop Materials:}}$
 **Hands-on exercise from ESRI (self-guided)**
 1. Introducing ArcGIS Pro   
 [[Tutorial]](https://doc.esri.com/en/arcgis-pro/latest/get-started/introducing-arcgis-pro.html)   
