@@ -61,7 +61,7 @@ Failure to disclose AI use when required will be treated as an academic integrit
 
 ## Course Schedule
 **Week 1: Introduction**   
-> $\color{royalblue}{\textbf{08/26}}$
+> $\color{royalblue}{\mathbf{08/26}}$
 Introduction and overview   
 
 ><span style="color:royalblue">**08/26**</span>
