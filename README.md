@@ -64,7 +64,7 @@ Failure to disclose AI use when required will be treated as an academic integrit
 
 $\color{blue}{\text{This is blue text}}$
 
-$\color{blue}{\textbf{This is bold blue text}}$
+$\color{royalblue}{\textbf{This is bold blue text}}$
 
 > $\color{royalblue}{\mathbf{08/26}}$
 Introduction and overview   
