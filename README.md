@@ -60,7 +60,10 @@ Students must disclose AI use when it meaningfully contributes to an assignment.
 Failure to disclose AI use when required will be treated as an academic integrity violation.
 
 ## Course Schedule
-**Week 1: Introduction**   
+**Week 1: Introduction**  
+
+<font color="red">This text is red</font>
+
 > $\color{royalblue}{\mathbf{08/26}}$
 Introduction and overview   
 
