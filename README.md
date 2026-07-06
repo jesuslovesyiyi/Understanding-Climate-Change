@@ -9,6 +9,10 @@ Email: yiyi.he@design.gatech.edu (Instructor), yxu899@gatech.edu (TA)
 ## Table of contents
 - [Course description](#Course-description)
 - [Learning objectives](#Learning-objectives)
+- [Students with disabilities](#students-with-disabilities)
+- [Evaluation](#evaluation)
+- [AI policy](#ai-policy)
+- [Course schedule](#course-schedule)
 
 ## Course description
 This course is an introduction to the major topics in climate change planning, including the scientific basis of the greenhouse effect, the history of Earth’s climate, energy options, economics, and public policy, the effect of climate change on food, water, and health, and the national and international legal frameworks for the management of climate change. 
@@ -36,7 +40,7 @@ On the completion of this course, students should have developed the following g
 - The ability to write a logically argued and properly researched essay; 
 - The ability to critically assess information from a range of sources, and assess its quality and relevance to the questions under consideration.
 
-## Students with Disabilities
+## Students with disabilities
 Students with disabilities needing academic accommodation should provide documentation to the Access Disabled Assistance Program for Tech Students (http://www.adapts.gatech.edu/) and bring an ADAPTS accommodation letter to the instructor indicating the nature of accommodations required. This should be done within the first week of class or as soon as possible after a new disability condition arises. All efforts will be made to provide reasonable accommodations.  
 
 ## Evaluation
