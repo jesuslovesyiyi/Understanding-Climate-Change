@@ -4,7 +4,11 @@ This repository contains learning materials for CP 4190/6190 Intro to Climate Ch
 Course name: Intro to Climate Change Planning  
 Instructor: Yiyi He  
 Teaching assistant: Yuhan Xu  
-Email: yiyi.he@design.gatech.edu (Instructor), yxu899@gatech.edu (TA)  
+Email: yiyi.he@design.gatech.edu (Instructor), yxu899@gatech.edu (TA)
+
+## Table of contents
+- [Course description](#Course-description)
+- [Learning objectives](#Learning-objectives)
 
 ## Course description
 This course is an introduction to the major topics in climate change planning, including the scientific basis of the greenhouse effect, the history of Earth’s climate, energy options, economics, and public policy, the effect of climate change on food, water, and health, and the national and international legal frameworks for the management of climate change. 
