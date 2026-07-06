@@ -63,10 +63,10 @@ Failure to disclose AI use when required will be treated as an academic integrit
 **Week 1: Introduction**  
 
 > $\color{royalblue}{\textbf{08/24}}$
-Introduction and overview   
+**Introduction and overview**   
 
 > $\color{royalblue}{\textbf{08/26}}$
-GIS workshop (in preparation for lab assignments and applied project)   
+**GIS workshop** (in preparation for lab assignments and applied project)   
 
 Readings:    
 1. Slingsby, J. (2026), *A Minimal Introduction to GIS (in R)*, §3.1 "What is GIS?", §3.2 "How do we do GIS?", §4 "GIS data models and file formats". [[link]](https://www.ecologi.st/spatial-r/)
