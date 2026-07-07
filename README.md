@@ -36,9 +36,11 @@ The course will provide a comprehensive and up-to-date introduction to all aspec
 
 On the completion of this course, students should have developed the following generic skills:  
 
-- Quantitative skills, including the ability to compute estimates of relevant data required to understand the scientific issues;
-- The ability to write a logically argued and properly researched essay; 
-- The ability to critically assess information from a range of sources, and assess its quality and relevance to the questions under consideration.
+1. Quantitative skills, including the ability to compute estimates of relevant data required to understand the scientific issues;
+
+2. The ability to write a logically argued and properly researched essay; 
+
+3. The ability to critically assess information from a range of sources, and assess its quality and relevance to the questions under consideration.
 
 ## Students with disabilities
 Students with disabilities needing academic accommodation should provide documentation to the Access Disabled Assistance Program for Tech Students (http://www.adapts.gatech.edu/) and bring an ADAPTS accommodation letter to the instructor indicating the nature of accommodations required. This should be done within the first week of class or as soon as possible after a new disability condition arises. All efforts will be made to provide reasonable accommodations.  
@@ -114,18 +116,28 @@ $\color{deeppink}{\textbf{Workshop Materials:}}$
 [[Tutorial]](https://doc.esri.com/en/arcgis-pro/latest/get-started/use-geoprocessing-tools.html)
 [[Data]](https://www.arcgis.com/home/item.html?id=513044a8f60d42918bfbe541ba54252e#overview)
 
+---
+
+**Week 2: Python workshop**
+> $\color{royalblue}{\textbf{08/31}}$
+**Python foundamentals 1**   
+
+> $\color{royalblue}{\textbf{09/02}}$
+**Python foundamentals 2**   
+
+$\color{deeppink}{\textbf{Workshop Materials:}}$
+**Python Foundamentals**
+
+[[Link to Python Foundamentals Github Repo]](https://github.com/jesuslovesyiyi/Python-Fundamentals-Workshop) 
 
 ---
 
+**Week 3: The science of climate change**
 
-**Week 2: Climate science**
+> $\color{royalblue}{\textbf{09/09}}$
+**Understanding Climate Change: natural and human causes**
 
 
-> **Workshop**: [Python Foundamentals](https://github.com/jesuslovesyiyi/Python-Fundamentals-Workshop) (Github Repo)  
-- Understanding Climate Change: natural and human causes
-
----
-**Week 3: Scenarios for forecasting**
 - Understanding Climate Change: natural and human causes cont.
 - Future climate variations: Global Climate Models
 > **Exercise**: Average Annual Global Land Ocean Temperature Change  
