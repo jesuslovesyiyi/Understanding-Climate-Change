@@ -258,7 +258,7 @@ $\color{deeppink}{\textbf{Exercise:}}$
 ---
 **Week 11: Social vulnerability**
 
-Reading:    
+Readings:    
 1. IPCC AR6 Climate Change 2022 Technical Summary: Impacts, Adaptation and Vulnerability [[Link]](https://www.ipcc.ch/report/ar6/wg2/chapter/technical-summary/)
 2. Zscheischler, J., Westra, S., van den Hurk, B.J.J.M. et al. Future climate risk from compound events. *Nature Climate Change* 8, 469–477 (2018). https://doi.org/10.1038/s41558-018-0156-3
 3. Zscheischler, J., Martius, O., Westra, S. et al. A typology of compound weather and climate events. *Nature Reviews Earth & Environment* 1, 333–347 (2020). https://doi.org/10.1038/s43017-020-0060-z
@@ -267,12 +267,12 @@ Reading:
 **Understanding and measuring social vulnerability**
 
 > $\color{royalblue}{\textbf{11/04}}$
-**Characterizing, and modeling compound hazards for urban resilience** (Guest lecture by [Yuhan Xu](https://yuhanxu.top/))
+**Characterizing and modeling compound hazards for urban resilience** (Guest lecture by [Yuhan Xu](https://yuhanxu.top/))
 
 ---
 **Week 12: Climate change mitigation and adaptation**
 
-Reading:    
+Readings:    
 1. Reckien, Diana. "Learning about urban adaptation using similarity-based partnerships." *Nature Climate Change* 16.3 (2026): 228-231. https://doi.org/10.1038/s41558-026-02566-4
 2. Buma, B., et al. "Expert Review of the Science Underlying Nature-Based Climate Solutions." *Nature Climate Change*, vol. 14, 2024, pp. 402–406, https://doi.org/10.1038/s41558-024-01960-0.
 
