@@ -72,16 +72,18 @@ Failure to disclose AI use when required will be treated as an academic integrit
 ## Course Schedule
 **Week 1: Introduction**  
 
+Readings:    
+1. Slingsby, J. (2026), *A Minimal Introduction to GIS (in R)*, §3.1 "What is GIS?", §3.2 "How do we do GIS?", §4 "GIS data models and file formats". [[link]](https://www.ecologi.st/spatial-r/)
+
+2. Esri, *Understanding Map Projections*, §1 "Geographic Coordinate Systems" and §2 "Projected Coordinate Systems". [[link]](https://content.esri.com/support/documentation/ao_/710understanding_map_projections.pdf)
+
 > $\color{royalblue}{\textbf{08/24}}$
 **Introduction and overview**   
 
 > $\color{royalblue}{\textbf{08/26}}$
 **GIS workshop** (in preparation for lab assignments and applied project)   
 
-Readings:    
-1. Slingsby, J. (2026), *A Minimal Introduction to GIS (in R)*, §3.1 "What is GIS?", §3.2 "How do we do GIS?", §4 "GIS data models and file formats". [[link]](https://www.ecologi.st/spatial-r/)
 
-2. Esri, *Understanding Map Projections*, §1 "Geographic Coordinate Systems" and §2 "Projected Coordinate Systems". [[link]](https://content.esri.com/support/documentation/ao_/710understanding_map_projections.pdf)
 
 $\color{deeppink}{\textbf{Workshop:}}$
 **Hands-on exercise from ESRI (self-guided)**
