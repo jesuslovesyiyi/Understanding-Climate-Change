@@ -150,12 +150,16 @@ Readings:
 **Climate Datasets and Formats**
 
 $\color{deeppink}{\textbf{Exercise:}}$
-**Global max temperature under 4 SSP scenarios**   
-[[Link to exercise]](https://drive.google.com/file/d/1aLhRvl-_dJoejLTb8QUhYi3j1ogd4uM-/view?usp=sharing)
-[[Link to solutions]](https://colab.research.google.com/drive/1WwRgv8LVdYyitQL5hqwTAVaDV8G3J9zj#scrollTo=WUSKyWPIStoA)
+**Working with netCDF**   
+[[Link to exercise]](https://drive.google.com/file/d/1vwV2--Nrc4agScb8_T6Gk9-njGYHyvTO/view?usp=sharing)
 
 > $\color{royalblue}{\textbf{09/16}}$
 **Future climate variations: Global Climate Models**
+
+$\color{deeppink}{\textbf{Exercise:}}$
+**Global max temperature under 4 SSP scenarios**   
+[[Link to exercise]](https://drive.google.com/file/d/1aLhRvl-_dJoejLTb8QUhYi3j1ogd4uM-/view?usp=sharing)
+[[Link to solutions]](https://colab.research.google.com/drive/1WwRgv8LVdYyitQL5hqwTAVaDV8G3J9zj#scrollTo=WUSKyWPIStoA)
 
 $\color{deeppink}{\textbf{Exercise:}}$
 **Quick intro to CMIP6**      
@@ -165,28 +169,51 @@ $\color{deeppink}{\textbf{Exercise:}}$
 **Week 5: Data science for climate research**
 
 > $\color{royalblue}{\textbf{09/21}}$
-**Lab 1: Calculating Temperature Anomalies** (See Lab 1 assignment on Canvas)
+**Climate change analytics**
+
+$\color{deeppink}{\textbf{Exercise:}}$
+**Python for Climate Change Analytics**   
+[[Link to exercise]](https://github.com/jesuslovesyiyi/Understanding-Climate-Change/blob/main/notebooks/Python%20for%20Climate%20Change%20Analytics.ipynb)
+
+$\color{deeppink}{\textbf{Exercise:}}$
+**ESRI tutorial on performing multidimensional raster analysis in ArcGIS Pro**   
+[[Link to tutorial]](https://doc.arcgis.com/en/imagery/workflows/tutorials/multidimensional-raster-analysis-in-arcgis-pro.htm)
+[[Link to data]](https://www.arcgis.com/home/item.html?id=6c2bf2c6ec3541569c73af4c73b56750)
 
 > $\color{royalblue}{\textbf{09/23}}$
-**Climate Datasets and Formats**
+**Lab 1: Calculating Temperature Anomalies** (See Lab 1 assignment on Canvas)
 
-- Python for Climate Change Analytics
-> **Colab**: Working with netCDF [[exercise]](https://drive.google.com/file/d/1vwV2--Nrc4agScb8_T6Gk9-njGYHyvTO/view?usp=sharing)  
-> **Colab**:    
-> **Exercise**: ESRI tutorial on performing multidimensional raster analysis in ArcGIS Pro [[tutorial]](https://doc.arcgis.com/en/imagery/workflows/tutorials/multidimensional-raster-analysis-in-arcgis-pro.htm) [[data]](https://www.arcgis.com/home/item.html?id=6c2bf2c6ec3541569c73af4c73b56750)
 ---
-**Week 5: Economics of climate change**
-- Economics of Climate Change 1
-- Economics of Climate Change 2
+**Week 6: Economics of climate change**
+
+Readings:   
+1. Burke, Marshall, et al. "Global Non-Linear Effect of Temperature on Economic Production." *Nature*, vol. 527, no. 7577, 2015, pp. 235–239, https://doi.org/10.1038/nature15725.
+2. [Optional] Stern, Nicholas. *The Economics of Climate Change: The Stern Review*. Cambridge University Press, 2006. [[Link]](https://teams.microsoft.com/l/message/48:notes/1783473202077context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A3da3eb47-c891-4187-b617-aef8b971db1a%22%7D)
+
+> $\color{royalblue}{\textbf{09/28}}$
+**The Social Cost of Carbon**
+
+> $\color{royalblue}{\textbf{09/30}}$
+**William Nordhaus and the Climate Club**
+
 ---
-**Week 6: The history of emissions**
-- Quantifying methane emissions from point source level to the global budget
-- Climate Action Plan  
-> **Exercise**: The City Inventory Reporting and Information System (CIRIS)
+**Week 7: Climate extremes**
+
+Readings:   
+1. Wing, Oliver E. J., et al. "New Insights into US Flood Vulnerability Revealed from Flood Insurance Big Data." *Nature Communications*, vol. 11, no. 1444, 2020, https://doi.org/10.1038/s41467-020-15264-2.
+
+> $\color{royalblue}{\textbf{10/07}}$
+**Floods**
+
 ---
-**Week 7: Climate extremes 1**
-- Climate change and extreme events: flooding  
-- Tropical Cyclone Hazards under Climate Change  
+**Week 7: Climate extremes cont.**
+
+> $\color{royalblue}{\textbf{10/12}}$
+**Heatwaves**
+
+> $\color{royalblue}{\textbf{10/14}}$
+**Wildfires**
+
 ---
 **Week 8: Climate extremes 2**
 - Data-driven planning and modeling in wildfire research using geospatial data and network science  
