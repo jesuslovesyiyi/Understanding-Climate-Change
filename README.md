@@ -83,7 +83,7 @@ Readings:
 
 2. Esri, *Understanding Map Projections*, §1 "Geographic Coordinate Systems" and §2 "Projected Coordinate Systems". [[link]](https://content.esri.com/support/documentation/ao_/710understanding_map_projections.pdf)
 
-$\color{deeppink}{\textbf{Workshop Materials:}}$
+$\color{deeppink}{\textbf{Workshop:}}$
 **Hands-on exercise from ESRI (self-guided)**
 1. Introducing ArcGIS Pro   
 [[Tutorial]](https://doc.esri.com/en/arcgis-pro/latest/get-started/introducing-arcgis-pro.html)   
@@ -125,29 +125,54 @@ $\color{deeppink}{\textbf{Workshop Materials:}}$
 > $\color{royalblue}{\textbf{09/02}}$
 **Python foundamentals 2**   
 
-$\color{deeppink}{\textbf{Workshop Materials:}}$
-**Python Foundamentals**
-
+$\color{deeppink}{\textbf{Workshop:}}$
+**Python Foundamentals**   
 [[Link to Python Foundamentals Github Repo]](https://github.com/jesuslovesyiyi/Python-Fundamentals-Workshop) 
 
 ---
 
 **Week 3: The science of climate change**
 
+Readings:   
+1. Undorf, S., et al. "Approaches, Challenges and Applications of Climate Change Impact Attribution." *Nature Reviews Earth & Environment*, vol. 7, no. 7, 2026, pp. 469–488, https://doi.org/10.1038/s43017-026-00798-8.
+
 > $\color{royalblue}{\textbf{09/09}}$
 **Understanding Climate Change: natural and human causes**
 
-
-- Understanding Climate Change: natural and human causes cont.
-- Future climate variations: Global Climate Models
-> **Exercise**: Average Annual Global Land Ocean Temperature Change  
-> **Colab**: Global max temperature under 4 SSP scenarios [[exercise]](https://drive.google.com/file/d/1aLhRvl-_dJoejLTb8QUhYi3j1ogd4uM-/view?usp=sharing) [[solutions]](https://colab.research.google.com/drive/1WwRgv8LVdYyitQL5hqwTAVaDV8G3J9zj#scrollTo=WUSKyWPIStoA)
 ---
-**Week 4: Data science for climate research**
-- Climate Datasets and Formats
+
+**Week 4: Future projections**   
+
+Readings:   
+1. Eyring, V., et al. "Towards Improved and More Routine Earth System Model Evaluation in CMIP." *Earth System Dynamics*, vol. 7, no. 4, 2016, pp. 813–830, https://doi.org/10.5194/esd-7-813-2016.
+
+> $\color{royalblue}{\textbf{09/14}}$
+**Climate Datasets and Formats**
+
+$\color{deeppink}{\textbf{Exercise:}}$
+**Global max temperature under 4 SSP scenarios**   
+[[Link to exercise]](https://drive.google.com/file/d/1aLhRvl-_dJoejLTb8QUhYi3j1ogd4uM-/view?usp=sharing)
+[[Link to solutions]](https://colab.research.google.com/drive/1WwRgv8LVdYyitQL5hqwTAVaDV8G3J9zj#scrollTo=WUSKyWPIStoA)
+
+> $\color{royalblue}{\textbf{09/16}}$
+**Future climate variations: Global Climate Models**
+
+$\color{deeppink}{\textbf{Exercise:}}$
+**Quick intro to CMIP6**      
+[[Link to exercise]](https://drive.google.com/file/d/1W2HKbrmQsU1NLYlNTNjJmJO2SxdhNrg8/view?usp=sharing)
+
+---
+**Week 5: Data science for climate research**
+
+> $\color{royalblue}{\textbf{09/21}}$
+**Lab 1: Calculating Temperature Anomalies** (See Lab 1 assignment on Canvas)
+
+> $\color{royalblue}{\textbf{09/23}}$
+**Climate Datasets and Formats**
+
 - Python for Climate Change Analytics
 > **Colab**: Working with netCDF [[exercise]](https://drive.google.com/file/d/1vwV2--Nrc4agScb8_T6Gk9-njGYHyvTO/view?usp=sharing)  
-> **Colab**: Quick intro to CMIP6 [[exercise]](https://drive.google.com/file/d/1W2HKbrmQsU1NLYlNTNjJmJO2SxdhNrg8/view?usp=sharing)  
+> **Colab**:    
 > **Exercise**: ESRI tutorial on performing multidimensional raster analysis in ArcGIS Pro [[tutorial]](https://doc.arcgis.com/en/imagery/workflows/tutorials/multidimensional-raster-analysis-in-arcgis-pro.htm) [[data]](https://www.arcgis.com/home/item.html?id=6c2bf2c6ec3541569c73af4c73b56750)
 ---
 **Week 5: Economics of climate change**
