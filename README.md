@@ -145,6 +145,7 @@ Readings:
 
 Readings:   
 1. Eyring, V., et al. "Towards Improved and More Routine Earth System Model Evaluation in CMIP." *Earth System Dynamics*, vol. 7, no. 4, 2016, pp. 813–830, https://doi.org/10.5194/esd-7-813-2016.
+2. Riahi, K., et al. "The Shared Socioeconomic Pathways and Their Energy, Land Use, and Greenhouse Gas Emissions Implications: An Overview." Global Environmental Change, vol. 42, 2017, pp. 153–168, https://doi.org/10.1016/j.gloenvcha.2016.05.009.
 
 > $\color{royalblue}{\textbf{09/14}}$
 **Climate Datasets and Formats**
@@ -196,44 +197,101 @@ Readings:
 > $\color{royalblue}{\textbf{09/30}}$
 **William Nordhaus and the Climate Club**
 
+$\color{deeppink}{\textbf{Exercise:}}$
+**Discount rate calculation**   
+[[Link to exercise]](https://github.com/jesuslovesyiyi/Understanding-Climate-Change/blob/main/notebooks/Discount%20Rates.ipynb)
+
 ---
 **Week 7: Climate extremes**
 
 Readings:   
-1. Wing, Oliver E. J., et al. "New Insights into US Flood Vulnerability Revealed from Flood Insurance Big Data." *Nature Communications*, vol. 11, no. 1444, 2020, https://doi.org/10.1038/s41467-020-15264-2.
+1. Kim, Minho, et al. "Fire Spread Simulations Using Cell2Fire on Synthetic and Real Landscapes." *Scientific Reports*, vol. 15, 2025, article 25173, https://doi.org/10.1038/s41598-025-05706-6.
+2. Kim, Minho, et al. "Modeling Potential Fire Spread Polygons and Networks for Suppression Strategies." *International Journal of Disaster Risk Reduction*, 2025, article 105853, https://doi.org/10.1016/j.ijdrr.2025.105853.
+
 
 > $\color{royalblue}{\textbf{10/07}}$
-**Floods**
+**Wildfires** (Guest lecture by [Minho Kim](https://minho.me/), postdoc at Stanford University, Doerr School of Sustainability)
 
 ---
-**Week 7: Climate extremes cont.**
+**Week 8: Climate extremes cont.**
+
+Readings:   
+1. Keith, Ladd, et al. "Planning for Extreme Heat: A Review." *Journal of Extreme Events*, vol. 6, no. 3&4, 2019, article 2050003, https://doi.org/10.1142/S2345737620500037.
+2. Wing, Oliver E. J., et al. "New Insights into US Flood Vulnerability Revealed from Flood Insurance Big Data." *Nature Communications*, vol. 11, no. 1444, 2020, https://doi.org/10.1038/s41467-020-15264-2.
 
 > $\color{royalblue}{\textbf{10/12}}$
 **Heatwaves**
 
 > $\color{royalblue}{\textbf{10/14}}$
-**Wildfires**
+**Floods**
 
 ---
-**Week 8: Climate extremes 2**
-- Data-driven planning and modeling in wildfire research using geospatial data and network science  
-- Climate change and extreme events: extreme heat  
+**Week 9: Mid-semeste project check-in**
+
+Readings:    
+1. Xi, D., Lin, N. & Gori, A. Increasing sequential tropical cyclone hazards along the US East and Gulf coasts. *Nature Climate Change* 13, 258–265 (2023). https://doi.org/10.1038/s41558-023-01595-7
+
+> $\color{royalblue}{\textbf{10/19}}$
+**Impacts of tropical cyclone-induced compound hazards on urban systems** (Guest lecture by [Yuhan Xu](https://yuhanxu.top/))
+
+> $\color{royalblue}{\textbf{10/21}}$
+**⭐Mid-semester project presentations⭐**
 ---
-**Week 9: Climate justice**
-- Introduction to Environmental Justice and Climate Justice
-- Climate Injustice through Academic, Agency, and Community Collaboration
+**Week 10: Transportation and climate change**
+
+Readings:    
+1. He, Yiyi, et al. "Towards Resilient Critical Infrastructures: Understanding the Impact of Coastal Flooding on the Fuel Transportation Network in the San Francisco Bay." *ISPRS International Journal of Geo-Information*, vol. 10, no. 9, 2021, article 573, https://doi.org/10.3390/ijgi10090573.
+2. He, Yiyi, et al. "Flood impacts on urban transit and accessibility—A case study of Kinshasa." *Transportation research part D: transport and environment* 96 (2021): 102889. https://doi.org/10.1016/j.trd.2021.102889
+
+> $\color{royalblue}{\textbf{10/26}}$
+**Flood impact on transportation**
+
+> $\color{royalblue}{\textbf{10/28}}$
+**Flood impact on transportatio cont.**
+
+$\color{deeppink}{\textbf{Exercise:}}$
+**Santiago network analysis**   
+[[Link to exercise]](https://github.com/jesuslovesyiyi/Santiago_Chile_Air_Pollution_WB/blob/main/Santiago%20Road%20Network.ipynb)
+
 ---
-**Week 10: Social vulnerability**
-- Understanding and measuring social vulnerability
+**Week 11: Social vulnerability**
+
+Reading:    
+1. IPCC AR6 Climate Change 2022 Technical Summary: Impacts, Adaptation and Vulnerability [[Link]](https://www.ipcc.ch/report/ar6/wg2/chapter/technical-summary/)
+2. Zscheischler, J., Westra, S., van den Hurk, B.J.J.M. et al. Future climate risk from compound events. *Nature Climate Change* 8, 469–477 (2018). https://doi.org/10.1038/s41558-018-0156-3
+3. Zscheischler, J., Martius, O., Westra, S. et al. A typology of compound weather and climate events. *Nature Reviews Earth & Environment* 1, 333–347 (2020). https://doi.org/10.1038/s43017-020-0060-z
+
+> $\color{royalblue}{\textbf{11/02}}$
+**Understanding and measuring social vulnerability**
+
+> $\color{royalblue}{\textbf{11/04}}$
+**Characterizing, and modeling compound hazards for urban resilience** (Guest lecture by [Yuhan Xu](https://yuhanxu.top/))
+
 ---
-**Week 11: Transportation and climate change**
-- Understanding the impact of climate-change-induced extreme weather conditions on multiple transportation sectors  
-> **Exercise**: Santiago network analysis
+**Week 12: Climate change mitigation and adaptation**
+
+Reading:    
+1. Reckien, Diana. "Learning about urban adaptation using similarity-based partnerships." *Nature Climate Change* 16.3 (2026): 228-231. https://doi.org/10.1038/s41558-026-02566-4
+2. Buma, B., et al. "Expert Review of the Science Underlying Nature-Based Climate Solutions." *Nature Climate Change*, vol. 14, 2024, pp. 402–406, https://doi.org/10.1038/s41558-024-01960-0.
+
+> $\color{royalblue}{\textbf{11/09}}$
+**Climate mitigation**
+
+> $\color{royalblue}{\textbf{11/11}}$
+**Climate adaptation**
+
 ---
-**Week 12: Climate change adaptation**
-- Adapting to a changing climate
+**Week 13: Climate action planning**
+
+> $\color{royalblue}{\textbf{11/16}}$
+**Climate action plan**
+
+> $\color{royalblue}{\textbf{11/18}}$
+**Open OH**
+
 ---
-**Week 13: Climate change mitigation**
-- Climate Mitigation, an overview
+**Week 14: Final project presentation 1**
+
+
 ---
-**Week 14-15: Final project presentations**
+**Week 15: Final project presentation 2**
