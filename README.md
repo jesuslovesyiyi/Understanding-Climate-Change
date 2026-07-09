@@ -136,7 +136,7 @@ $\color{deeppink}{\textbf{Workshop:}}$
 **Week 3: The science of climate change**
 
 Readings:   
-1. Undorf, S., et al. "Approaches, Challenges and Applications of Climate Change Impact Attribution." *Nature Reviews Earth & Environment*, vol. 7, no. 7, 2026, pp. 469–488, https://doi.org/10.1038/s43017-026-00798-8.
+1. Undorf, S., et al. "Approaches, Challenges and Applications of Climate Change Impact Attribution." *Nature Reviews Earth & Environment*, vol. 7, no. 7, 2026, pp. 469–488, https://doi.org/10.1038/s43017-026-00798-8
 
 > $\color{royalblue}{\textbf{09/09}}$
 **Understanding Climate Change: natural and human causes**
@@ -146,8 +146,8 @@ Readings:
 **Week 4: Future projections**   
 
 Readings:   
-1. Eyring, V., et al. "Towards Improved and More Routine Earth System Model Evaluation in CMIP." *Earth System Dynamics*, vol. 7, no. 4, 2016, pp. 813–830, https://doi.org/10.5194/esd-7-813-2016.
-2. Riahi, K., et al. "The Shared Socioeconomic Pathways and Their Energy, Land Use, and Greenhouse Gas Emissions Implications: An Overview." Global Environmental Change, vol. 42, 2017, pp. 153–168, https://doi.org/10.1016/j.gloenvcha.2016.05.009.
+1. Eyring, V., et al. "Towards Improved and More Routine Earth System Model Evaluation in CMIP." *Earth System Dynamics*, vol. 7, no. 4, 2016, pp. 813–830, https://doi.org/10.5194/esd-7-813-2016
+2. Riahi, K., et al. "The Shared Socioeconomic Pathways and Their Energy, Land Use, and Greenhouse Gas Emissions Implications: An Overview." Global Environmental Change, vol. 42, 2017, pp. 153–168, https://doi.org/10.1016/j.gloenvcha.2016.05.009
 
 > $\color{royalblue}{\textbf{09/14}}$
 **Climate Datasets and Formats**
@@ -207,8 +207,8 @@ $\color{deeppink}{\textbf{Exercise:}}$
 **Week 7: Climate extremes**
 
 Readings:   
-1. Kim, Minho, et al. "Fire Spread Simulations Using Cell2Fire on Synthetic and Real Landscapes." *Scientific Reports*, vol. 15, 2025, article 25173, https://doi.org/10.1038/s41598-025-05706-6.
-2. Kim, Minho, et al. "Modeling Potential Fire Spread Polygons and Networks for Suppression Strategies." *International Journal of Disaster Risk Reduction*, 2025, article 105853, https://doi.org/10.1016/j.ijdrr.2025.105853.
+1. Kim, Minho, et al. "Fire Spread Simulations Using Cell2Fire on Synthetic and Real Landscapes." *Scientific Reports*, vol. 15, 2025, article 25173, https://doi.org/10.1038/s41598-025-05706-6
+2. Kim, Minho, et al. "Modeling Potential Fire Spread Polygons and Networks for Suppression Strategies." *International Journal of Disaster Risk Reduction*, 2025, article 105853, https://doi.org/10.1016/j.ijdrr.2025.105853
 
 
 > $\color{royalblue}{\textbf{10/07}}$
@@ -218,7 +218,7 @@ Readings:
 **Week 8: Climate extremes cont.**
 
 Readings:   
-1. Keith, Ladd, et al. "Planning for Extreme Heat: A Review." *Journal of Extreme Events*, vol. 6, no. 3&4, 2019, article 2050003, https://doi.org/10.1142/S2345737620500037.
+1. Keith, Ladd, et al. "Planning for Extreme Heat: A Review." *Journal of Extreme Events*, vol. 6, no. 3&4, 2019, article 2050003, https://doi.org/10.1142/S2345737620500037
 2. Wing, Oliver E. J., et al. "New Insights into US Flood Vulnerability Revealed from Flood Insurance Big Data." *Nature Communications*, vol. 11, no. 1444, 2020, https://doi.org/10.1038/s41467-020-15264-2.
 
 > $\color{royalblue}{\textbf{10/12}}$
@@ -274,7 +274,7 @@ Readings:
 
 Readings:    
 1. Reckien, Diana. "Learning about urban adaptation using similarity-based partnerships." *Nature Climate Change* 16.3 (2026): 228-231. https://doi.org/10.1038/s41558-026-02566-4
-2. Buma, B., et al. "Expert Review of the Science Underlying Nature-Based Climate Solutions." *Nature Climate Change*, vol. 14, 2024, pp. 402–406, https://doi.org/10.1038/s41558-024-01960-0.
+2. Buma, B., et al. "Expert Review of the Science Underlying Nature-Based Climate Solutions." *Nature Climate Change*, vol. 14, 2024, pp. 402–406, https://doi.org/10.1038/s41558-024-01960-0
 
 > $\color{royalblue}{\textbf{11/09}}$
 **Climate mitigation**
@@ -284,6 +284,9 @@ Readings:
 
 ---
 **Week 13: Climate action planning**
+
+Readings:    
+1. Meerow, Sara, and Sierra C. Woodruff. "Seven principles of strong climate change planning." *Journal of the American Planning Association* 86.1 (2020): 39-46. https://doi.org/10.1038/s44168-025-00323-5
 
 > $\color{royalblue}{\textbf{11/16}}$
 **Climate action plan**
