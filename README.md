@@ -49,7 +49,7 @@ Students with disabilities needing academic accommodation should provide documen
 The course will be structured as a combined lecture-lab course. You are expected to have read all assigned readings ahead of time, and be prepared to actively participate in class discussions. Students will be evaluated on two sets of tasks: three lab projects and a final course project. The formal requirements are as follows:
 
 _Three Lab Projects (45 pts total, 15 pts each):_
-Through the completion of three lab assignments, students will gain first-hand knowledge of the use and operation of GIS and Python in climate change planning and analytics. You will have two weeks to work on each lab assignment. For late submissions, a 1.0 point/day penalty will be applied.
+Through the completion of three lab assignments, students will gain first-hand knowledge of the use and operation of GIS and Python in climate change planning and analytics. You will have two weeks to work on each lab assignment. For late submissions, a **1.0 point/day penalty** will be applied.
 
 - $\color{Green}{\textbf{Lab 1:}}$ **Calculating temperature anomalies**  
 Released: $\color{royalblue}{\textbf{09/23 9:00 am}}$  
