@@ -49,7 +49,19 @@ Students with disabilities needing academic accommodation should provide documen
 The course will be structured as a combined lecture-lab course. You are expected to have read all assigned readings ahead of time, and be prepared to actively participate in class discussions. Students will be evaluated on two sets of tasks: three lab projects and a final course project. The formal requirements are as follows:
 
 _Three Lab Projects (45 pts total, 15 pts each):_
-Through the completion of three lab assignments, students will gain first-hand knowledge of the use and operation of GIS and Python in climate change planning and analytics. For late submissions, a .5 point/day penalty will be applied.
+Through the completion of three lab assignments, students will gain first-hand knowledge of the use and operation of GIS and Python in climate change planning and analytics. You will have two weeks to work on each lab assignment. For late submissions, a 1.0 point/day penalty will be applied.
+
+- $\color{Green}{\textbf{Lab 1:}}$ **Calculating temperature anomalies**  
+Released: $\color{royalblue}{\textbf{09/23 9:00 am}}$  
+Due: $\color{royalblue}{\textbf{10/07 9:00 pm}}$
+
+- $\color{Green}{\textbf{Lab 2:}}$ **Mapping hurricane exposure in the continental US**  
+Released: $\color{royalblue}{\textbf{10/12 9:00 am}}$  
+Due: $\color{royalblue}{\textbf{10/26 9:00 pm}}$
+
+- $\color{Green}{\textbf{Lab 3:}}$ **Social vulnerability assessment**  
+Released: $\color{royalblue}{\textbf{11/02 9:00 am}}$  
+Due: $\color{royalblue}{\textbf{11/16 9:00 pm}}$
 
 _Applied Project (15 pts on Presentation, 40 pts on Project paper):_
 The final class requirement is a team-based project that applies the knowledge learned in the class to a real-world problem. Fifteen percent of the total course grade will be a formal presentation to the class. Please note that all written assignments (unless otherwise noted) are to be submitted through the “Assignments” tab. Late project report/paper submissions are not accepted. It is the student’s responsibility to ensure that assignments submitted through Canvas are successfully uploaded into the system.
@@ -184,7 +196,7 @@ $\color{deeppink}{\textbf{Exercise:}}$
 [[Link to data]](https://www.arcgis.com/home/item.html?id=6c2bf2c6ec3541569c73af4c73b56750)
 
 > $\color{royalblue}{\textbf{09/23}}$
-**Lab 1: Calculating Temperature Anomalies** (See Lab 1 assignment on Canvas)
+$\color{Green}{\textbf{Lab 1:}}$ **Calculating Temperature Anomalies** (See Lab 1 assignment on Canvas)
 
 ---
 **Week 6: Economics of climate change**
@@ -222,7 +234,8 @@ Readings:
 2. Wing, Oliver E. J., et al. "New Insights into US Flood Vulnerability Revealed from Flood Insurance Big Data." *Nature Communications*, vol. 11, no. 1444, 2020, https://doi.org/10.1038/s41467-020-15264-2.
 
 > $\color{royalblue}{\textbf{10/12}}$
-**Heatwaves**
+**Heatwaves**  
+$\color{Green}{\textbf{Lab 2:}}$ **Mapping hurricane exposure in the continental US** (See Lab 2 assignment on Canvas)
 
 > $\color{royalblue}{\textbf{10/14}}$
 **Floods**
@@ -264,7 +277,8 @@ Readings:
 3. Zscheischler, J., Martius, O., Westra, S. et al. A typology of compound weather and climate events. *Nature Reviews Earth & Environment* 1, 333–347 (2020). https://doi.org/10.1038/s43017-020-0060-z
 
 > $\color{royalblue}{\textbf{11/02}}$
-**Understanding and measuring social vulnerability**
+**Understanding and measuring social vulnerability**  
+$\color{Green}{\textbf{Lab 3:}}$ **Social vulnerability assessment** (See Lab 3 assignment on Canvas)
 
 > $\color{royalblue}{\textbf{11/04}}$
 **Characterizing and modeling compound hazards for urban resilience** (Guest lecture by [Yuhan Xu](https://yuhanxu.top/))
