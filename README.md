@@ -63,8 +63,11 @@ Due: $\color{royalblue}{\textbf{10/26 9:00 pm}}$
 Released: $\color{royalblue}{\textbf{11/02 9:00 am}}$  
 Due: $\color{royalblue}{\textbf{11/16 9:00 pm}}$
 
-_Applied Project (15 pts on Presentation, 40 pts on Project paper):_
+_Applied Project (15 pts on Presentation, 35 pts on Project paper):_
 The final class requirement is a team-based project that applies the knowledge learned in the class to a real-world problem. Fifteen percent of the total course grade will be a formal presentation to the class. Please note that all written assignments (unless otherwise noted) are to be submitted through the “Assignments” tab. Late project report/paper submissions are not accepted. It is the student’s responsibility to ensure that assignments submitted through Canvas are successfully uploaded into the system.
+
+_Participation (5 pts total):_  
+Students are expected to come to class, engage in class discussions, collaborate constructively with peers during group work, and engage with peers' projects through written summaries.
 
 All assignments (unless otherwise noted) are to be submitted through the “Assignments” tab on Canvas. It is the student’s responsibility to ensure that assignments submitted through Canvas are successfully uploaded into the system on time. For late submissions to any of the assignments above (final project paper excluded), a **1.0 point/day penalty** will be applied. <u>Late project paper submissions are not accepted</u>. In the case of illness or other special circumstances, notification should be given as soon as possible and before the assignment deadline.
 
