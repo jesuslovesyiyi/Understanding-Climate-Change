@@ -162,7 +162,7 @@ Readings:
 
 Readings:   
 1. Eyring, V., et al. "Towards Improved and More Routine Earth System Model Evaluation in CMIP." *Earth System Dynamics*, vol. 7, no. 4, 2016, pp. 813–830, https://doi.org/10.5194/esd-7-813-2016
-2. Riahi, K., et al. "The Shared Socioeconomic Pathways and Their Energy, Land Use, and Greenhouse Gas Emissions Implications: An Overview." Global Environmental Change, vol. 42, 2017, pp. 153–168, https://doi.org/10.1016/j.gloenvcha.2016.05.009
+2. Riahi, K., et al. "The Shared Socioeconomic Pathways and Their Energy, Land Use, and Greenhouse Gas Emissions Implications: An Overview." *Global Environmental Change*, vol. 42, 2017, pp. 153–168, https://doi.org/10.1016/j.gloenvcha.2016.05.009
 
 > $\color{royalblue}{\textbf{09/14}}$
 **Climate Datasets and Formats**
