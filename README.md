@@ -137,14 +137,14 @@ $\color{deeppink}{\textbf{Workshop:}}$
 
 **Week 2: Python workshop**
 > $\color{royalblue}{\textbf{08/31}}$
-**Python foundamentals 1**   
+**Python fundamentals 1**   
 
 > $\color{royalblue}{\textbf{09/02}}$
-**Python foundamentals 2**   
+**Python fundamentals 2**   
 
 $\color{deeppink}{\textbf{Workshop:}}$
-**Python Foundamentals**   
-[[Link to Python Foundamentals Github Repo]](https://github.com/jesuslovesyiyi/Python-Fundamentals-Workshop) 
+**Python Fundamentals**   
+[[Link to Python Fundamentals Github Repo]](https://github.com/jesuslovesyiyi/Python-Fundamentals-Workshop) 
 
 ---
 
