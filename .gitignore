@@ -1,6 +1,6 @@
 # Jupyter
 .ipynb_checkpoints/
-notebooks/.ipynb_checkpoints/
+/notebooks/.ipynb_checkpoints/
 
 # Other
 .DS_Store
