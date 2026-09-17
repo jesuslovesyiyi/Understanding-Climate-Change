@@ -4,5 +4,5 @@ notebooks/.ipynb_checkpoints/
 
 # Other
 .DS_Store
-tmin_CPC_2023.nc
 tmin_gridmet_2023.nc
+tmin_CPC_2023.nc
