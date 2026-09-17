@@ -194,9 +194,9 @@ $\color{deeppink}{\textbf{Exercise:}}$
 [[Link to exercise]](https://github.com/jesuslovesyiyi/Understanding-Climate-Change/blob/main/notebooks/Python%20for%20Climate%20Change%20Analytics.ipynb)
 
 $\color{deeppink}{\textbf{Exercise:}}$
-**ESRI tutorial on performing multidimensional raster analysis in ArcGIS Pro**   
-[[Link to tutorial]](https://doc.arcgis.com/en/imagery/workflows/tutorials/multidimensional-raster-analysis-in-arcgis-pro.htm)
-[[Link to data]](https://www.arcgis.com/home/item.html?id=6c2bf2c6ec3541569c73af4c73b56750)
+**ESRI tutorial on multidimensional multispectral imagery in ArcGIS Pro**   
+[[Link to tutorial]](https://learn.arcgis.com/en/projects/get-started-with-multidimensional-multispectral-imagery/)
+[[Link to data]](https://www.arcgis.com/sharing/rest/content/items/a4bdfe07ab9f4caaa41a2f83f1e06c20/data)
 
 > $\color{royalblue}{\textbf{09/23}}$
 $\color{Green}{\textbf{Lab 1:}}$ **Calculating Temperature Anomalies** (See Lab 1 assignment on Canvas)
